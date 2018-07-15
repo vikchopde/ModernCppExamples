@@ -2,6 +2,8 @@
 #include <vector>
 #include <memory>
 
+using std::cout;
+using std::endl;
 
 /// auto as return type for a function
 template <typename F, typename T>
